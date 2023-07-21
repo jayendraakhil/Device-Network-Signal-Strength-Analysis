@@ -7,7 +7,7 @@ The requirement is to Perform Exploratory Data Analysis (EDA) on this dataset an
 
 2.To Identify key factors that contribute to a device's performance.
 
-3.To propose a plan to optimize the usage of these four devices.
+3.To propose a plan to optimize the usage of these three devices.
 
 
 
